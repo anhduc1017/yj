@@ -12,7 +12,9 @@
 * github
 * HTML
 * CSS
-## 🦕圖示（放上打算要爬蟲的資料截圖與網站連結）
+ 🦕圖示（放上打算要爬蟲的資料截圖與網站連結）
+圖示: ![image](https://github.com/user-attachments/assets/10d4b55d-2fe5-4b75-b04a-09c39c90dc0e)
+網站連結:https://www.toysrus.com.tw/zh-tw/whats-on/geoffreys-fun-zone-7/
 [公車查詢](https://citybus.taichung.gov.tw)
 ##🦭作者與聯絡方式 
 44881234kj@gmail.com
